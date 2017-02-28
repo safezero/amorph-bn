@@ -1,6 +1,6 @@
 {
   "name": "amorph-bn",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Amorph plugin for bn.js",
   "main": "index.js",
   "scripts": {
