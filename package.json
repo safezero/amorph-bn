@@ -1,0 +1,26 @@
+{
+  "name": "amorph-bn",
+  "version": "0.0.0",
+  "description": "Amorph plugin for bn.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/safezero/amorph-bn.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/safezero/amorph-bn/issues"
+  },
+  "homepage": "https://github.com/safezero/amorph-bn#readme",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "chai-amorph": "0.0.2"
+  },
+  "dependencies": {
+    "bn.js": "^4.11.6"
+  }
+}
